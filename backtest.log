@@ -1,0 +1,3703 @@
+Initializing TimesFM for Backtesting...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching US Ticker list...
+Successes Found:   0%|          | 0/100 [00:00<?, ?it/s]--- Fetching data for ACVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:   1%|          | 1/100 [00:01<02:57,  1.79s/it]Successes Found:   2%|▏         | 2/100 [00:02<01:57,  1.20s/it]--- Fetching data for ADTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEHL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:   4%|▍         | 4/100 [00:04<01:36,  1.01s/it]Successes Found:   6%|▌         | 6/100 [00:04<01:01,  1.54it/s]--- Fetching data for AKAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKBA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATYR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVXL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:   7%|▋         | 7/100 [00:11<03:24,  2.19s/it]Successes Found:   8%|▊         | 8/100 [00:12<02:42,  1.77s/it]--- Fetching data for BLNE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMBL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 86 rows of data.
+--- Fetching data for CABO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCOI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+Successes Found:  10%|█         | 10/100 [00:20<04:03,  2.71s/it]Successes Found:  11%|█         | 11/100 [00:20<03:12,  2.17s/it]--- Fetching data for CREG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRVL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 37 rows of data.
+--- Fetching data for ELPW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EZGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for FATN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 283 rows of data.
+Successes Found:  12%|█▏        | 12/100 [00:25<04:08,  2.82s/it]--- Fetching data for FWRD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  13%|█▎        | 13/100 [00:27<03:40,  2.54s/it]--- Fetching data for GDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for GMM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for GOVX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for HAO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for HCKT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for HCWB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for HSLV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 52 rows of data.
+--- Fetching data for HUBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for JDZG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for JJSF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for JYD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for KLC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 406 rows of data.
+Successes Found:  14%|█▍        | 14/100 [00:34<05:40,  3.96s/it]--- Fetching data for KMPR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for LABT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 22 rows of data.
+--- Fetching data for LICN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for LMRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 112 rows of data.
+--- Fetching data for MRSH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for NGEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for NIQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 211 rows of data.
+--- Fetching data for NIVF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for NSP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  15%|█▌        | 15/100 [00:41<06:51,  4.84s/it]--- Fetching data for PESI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for PHGE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for PSIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for PUSA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 321 rows of data.
+Successes Found:  16%|█▌        | 16/100 [00:45<06:19,  4.52s/it]--- Fetching data for QNTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for RUBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 203 rows of data.
+--- Fetching data for SAGT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 305 rows of data.
+--- Fetching data for SENS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  17%|█▋        | 17/100 [00:48<05:39,  4.09s/it]--- Fetching data for SFM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for SNBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  18%|█▊        | 18/100 [00:50<04:50,  3.55s/it]--- Fetching data for TDIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 211 rows of data.
+--- Fetching data for TIGR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for TLSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for UCAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for UZX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for VCIG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for VRSK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for WIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for WNW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for WOK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 438 rows of data.
+--- Fetching data for WPP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for WTF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 288 rows of data.
+--- Fetching data for XGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ZS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for 6962.TW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 358 rows of data.
+--- Fetching data for A (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AACB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 284 rows of data.
+--- Fetching data for AACG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AACI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 40 rows of data.
+--- Fetching data for AAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAMI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAOI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAPG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 334 rows of data.
+--- Fetching data for AAPL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AARD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 320 rows of data.
+--- Fetching data for AAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AAUC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 444 rows of data.
+--- Fetching data for AB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABBV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABCB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABCL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABEO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABEV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABLV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABNB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  19%|█▉        | 19/100 [01:43<24:27, 18.12s/it]--- Fetching data for ABR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABTC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABTS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABUS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABVC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABVE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 475 rows of data.
+Successes Found:  20%|██        | 20/100 [01:53<20:53, 15.66s/it]--- Fetching data for ABVX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ABXL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACAA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 31 rows of data.
+--- Fetching data for ACAD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  21%|██        | 21/100 [02:03<18:28, 14.03s/it]--- Fetching data for ACCL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 150 rows of data.
+--- Fetching data for ACCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACCS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  22%|██▏       | 22/100 [02:07<14:05, 10.85s/it]--- Fetching data for ACEL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACET (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACFN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACGL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  23%|██▎       | 23/100 [02:17<13:48, 10.75s/it]--- Fetching data for ACHV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACIU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACIW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACLS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACNB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACOG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 382 rows of data.
+--- Fetching data for ACON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for ACR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACRV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACTU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 446 rows of data.
+--- Fetching data for ACU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ACXP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 73 rows of data.
+--- Fetching data for ADAG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADBE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADEA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADGM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 454 rows of data.
+--- Fetching data for ADI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADIL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADSE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  24%|██▍       | 24/100 [03:10<29:33, 23.33s/it]--- Fetching data for ADSK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADTN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADUR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 444 rows of data.
+--- Fetching data for ADUS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADVB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 306 rows of data.
+--- Fetching data for ADX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ADXN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEAQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 83 rows of data.
+--- Fetching data for AEBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 225 rows of data.
+--- Fetching data for AEC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEFC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEIS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AENT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AER (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AERO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 136 rows of data.
+--- Fetching data for AERT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  25%|██▌       | 25/100 [03:40<31:32, 25.23s/it]--- Fetching data for AES (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AESI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  26%|██▌       | 26/100 [03:43<22:51, 18.53s/it]--- Fetching data for AEVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AEXA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 165 rows of data.
+--- Fetching data for AEYE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFCG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFGB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFGC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFGD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFGE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFJK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFRM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AFYA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGAE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 71 rows of data.
+--- Fetching data for AGCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 147 rows of data.
+--- Fetching data for AGCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for AGEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGIG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 74 rows of data.
+--- Fetching data for AGMH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGPU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGRZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 162 rows of data.
+--- Fetching data for AGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AGYS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AHCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AHG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AHL (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AHL"}}}
+ERROR:yfinance:$AHL: possibly delisted; no price data found  (period=2y) (Yahoo error = "No data found, symbol may be delisted")
+❌ No data found for AHL
+--- Fetching data for AHMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 148 rows of data.
+--- Fetching data for AHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AHRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AHT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 7 rows of data.
+--- Fetching data for AIB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 48 rows of data.
+--- Fetching data for AIDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 66 rows of data.
+--- Fetching data for AIFC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIFF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIFU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIHS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 262 rows of data.
+--- Fetching data for AIIA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 124 rows of data.
+--- Fetching data for AIIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIIR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 229 rows of data.
+--- Fetching data for AIM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  28%|██▊       | 28/100 [04:39<27:39, 23.05s/it]--- Fetching data for AIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 237 rows of data.
+--- Fetching data for AIRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AISP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  29%|██▉       | 29/100 [04:51<24:01, 20.31s/it]--- Fetching data for AIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIXC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIXI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AIZN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AJG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKO (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$AKO: possibly delisted; no price data found  (period=2y)
+❌ No data found for AKO
+--- Fetching data for AKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AKTS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 93 rows of data.
+--- Fetching data for ALAB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  30%|███       | 30/100 [05:09<22:57, 19.68s/it]--- Fetching data for ALC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALDF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 360 rows of data.
+--- Fetching data for ALDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALEC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 454 rows of data.
+--- Fetching data for ALG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALGM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALGS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALGT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 156 rows of data.
+--- Fetching data for ALHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALIS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 127 rows of data.
+--- Fetching data for ALIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALKS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALKT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  31%|███       | 31/100 [05:31<23:26, 20.38s/it]Successes Found:  33%|███▎      | 33/100 [05:32<12:54, 11.56s/it]--- Fetching data for ALL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALLE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALLO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALLR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALLY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 26 rows of data.
+--- Fetching data for ALMS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 477 rows of data.
+--- Fetching data for ALMU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for ALNY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALOY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 140 rows of data.
+--- Fetching data for ALRM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALSN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  34%|███▍      | 34/100 [05:59<16:48, 15.28s/it]--- Fetching data for ALTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALTO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALUB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 96 rows of data.
+--- Fetching data for ALV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for ALVO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALXO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ALZN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 4 rows of data.
+--- Fetching data for AMAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for AMBA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMBO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMBP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMBQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 206 rows of data.
+--- Fetching data for AMBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMCR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMCX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMOD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMPG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  35%|███▌      | 35/100 [06:44<24:43, 22.82s/it]--- Fetching data for AMPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMPL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMPX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMPY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMRZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 232 rows of data.
+--- Fetching data for AMS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMSF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMSS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 3 rows of data.
+--- Fetching data for AMST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMTB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMTD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 417 rows of data.
+--- Fetching data for AMTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMWD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMWL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMZE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AMZN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANAB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANDE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANDG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 108 rows of data.
+--- Fetching data for ANET (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANG (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: ANG"}}}
+ERROR:yfinance:$ANG: possibly delisted; no price data found  (period=2y) (Yahoo error = "No data found, symbol may be delisted")
+❌ No data found for ANG
+--- Fetching data for ANGH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  36%|███▌      | 36/100 [07:28<30:19, 28.42s/it]--- Fetching data for ANGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 176 rows of data.
+--- Fetching data for ANIK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  37%|███▋      | 37/100 [07:31<22:30, 21.44s/it]--- Fetching data for ANIP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANPA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 222 rows of data.
+--- Fetching data for ANRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANTA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 259 rows of data.
+--- Fetching data for ANTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ANY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AOD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for AOMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 250 rows of data.
+--- Fetching data for AOMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 454 rows of data.
+--- Fetching data for AOMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AORT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AOSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AOUT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 125 rows of data.
+--- Fetching data for APAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 70 rows of data.
+--- Fetching data for APD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APEI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APGE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for API (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APLE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APLM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APOG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APPF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APPN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APTV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APUS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 261 rows of data.
+--- Fetching data for APVO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APWC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for APXT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 129 rows of data.
+--- Fetching data for APYX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AQB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AQMS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AQN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AQNB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AQST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 257 rows of data.
+--- Fetching data for ARAY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARBB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARBE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARCB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 49 rows of data.
+--- Fetching data for ARCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARDT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 464 rows of data.
+--- Fetching data for ARDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AREC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AREN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARES (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  38%|███▊      | 38/100 [08:52<39:27, 38.18s/it]--- Fetching data for ARGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARHS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARIS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARKO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARLO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARLP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARMK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AROC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AROW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  39%|███▉      | 39/100 [09:15<34:35, 34.03s/it]--- Fetching data for ARQQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARQT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARRY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARTC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 60 rows of data.
+--- Fetching data for ARTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARTV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 463 rows of data.
+--- Fetching data for ARTW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARWR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ARX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 210 rows of data.
+--- Fetching data for ARXS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 27 rows of data.
+--- Fetching data for AS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASBA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASBP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for ASH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  40%|████      | 40/100 [09:44<32:23, 32.40s/it]--- Fetching data for ASIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 239 rows of data.
+--- Fetching data for ASIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASLE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASML (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 347 rows of data.
+--- Fetching data for ASPI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASPN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASRV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASTS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASUR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ASYS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATCH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATCX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 93 rows of data.
+--- Fetching data for ATEC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATER (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATEX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATGL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATH (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$ATH: possibly delisted; no price data found  (period=2y) (Yahoo error = "No data found, symbol may be delisted")
+❌ No data found for ATH
+--- Fetching data for ATHE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATHM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 281 rows of data.
+--- Fetching data for ATHS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 286 rows of data.
+--- Fetching data for ATKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATLC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATLN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATLO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATMU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATNI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATNM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATOM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATRA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  42%|████▏     | 42/100 [10:50<31:40, 32.77s/it]--- Fetching data for ATRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ATXG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUBN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 216 rows of data.
+--- Fetching data for AUID (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AURA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AURE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AUUD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for AVAH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVAV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 204 rows of data.
+--- Fetching data for AVBH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVBP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVEX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 26 rows of data.
+--- Fetching data for AVGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVIR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVLN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 17 rows of data.
+--- Fetching data for AVNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  43%|████▎     | 43/100 [11:27<32:09, 33.86s/it]--- Fetching data for AVNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVNW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 360 rows of data.
+--- Fetching data for AVT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVTR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  44%|████▍     | 44/100 [11:39<26:13, 28.10s/it]Successes Found:  45%|████▌     | 45/100 [11:39<18:50, 20.56s/it]--- Fetching data for AVX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AVY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for AWR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AWX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXIA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXIL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 204 rows of data.
+--- Fetching data for AXON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  46%|████▌     | 46/100 [12:00<18:39, 20.74s/it]--- Fetching data for AXP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXSM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXTA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AXTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AYA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AYI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AYTU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 435 rows of data.
+--- Fetching data for AZN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZTA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZTR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for AZZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for B (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BABA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BACC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 203 rows of data.
+--- Fetching data for BAER (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAFN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BALL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BALY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 365 rows of data.
+--- Fetching data for BAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BANC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BANF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BANL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BANR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BANX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BARK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BATL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BAYA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBBY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBCP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBCQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 81 rows of data.
+--- Fetching data for BBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBDO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBLG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 330 rows of data.
+--- Fetching data for BBOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  47%|████▋     | 47/100 [13:10<30:28, 34.49s/it]--- Fetching data for BBSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBUC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BBWI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  48%|████▊     | 48/100 [13:22<24:18, 28.05s/it]--- Fetching data for BBY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCAB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 191 rows of data.
+--- Fetching data for BCAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCAX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 424 rows of data.
+Successes Found:  49%|████▉     | 49/100 [13:31<19:12, 22.59s/it]--- Fetching data for BCBP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCDA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  50%|█████     | 50/100 [13:34<14:05, 16.91s/it]--- Fetching data for BCE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCHT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCML (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCSF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCSS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 126 rows of data.
+--- Fetching data for BCTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BCYC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 151 rows of data.
+--- Fetching data for BDJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDSX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  51%|█████     | 51/100 [14:00<15:48, 19.35s/it]--- Fetching data for BDTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEAG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 359 rows of data.
+--- Fetching data for BEAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEBE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 74 rows of data.
+--- Fetching data for BEEM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEEP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEKE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BENF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEPI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BEPJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BESS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BETA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 138 rows of data.
+--- Fetching data for BETR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BF (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$BF: possibly delisted; no price data found  (period=2y)
+❌ No data found for BF
+--- Fetching data for BFAM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFLY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFRG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BFST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for BGC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGDE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  52%|█████▏    | 52/100 [14:38<19:58, 24.97s/it]--- Fetching data for BGH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 148 rows of data.
+--- Fetching data for BGL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 229 rows of data.
+--- Fetching data for BGLC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGMS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGSF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 139 rows of data.
+--- Fetching data for BGT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for BGY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHAV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 27 rows of data.
+--- Fetching data for BHB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHRB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BHVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  53%|█████▎    | 53/100 [15:06<20:15, 25.86s/it]--- Fetching data for BIAF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIDU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIIB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 80 rows of data.
+--- Fetching data for BILI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BILL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIOA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 415 rows of data.
+--- Fetching data for BIOX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIPI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIPJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 497 rows of data.
+--- Fetching data for BIRD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIRK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIVI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BIXI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 106 rows of data.
+--- Fetching data for BIYA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 295 rows of data.
+--- Fetching data for BJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BJDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BJRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKHA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKKT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKNG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKSY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BKV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 415 rows of data.
+--- Fetching data for BL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLDP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLDR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLFS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLIV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 285 rows of data.
+--- Fetching data for BLK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLKB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLLN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 136 rows of data.
+--- Fetching data for BLMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  54%|█████▍    | 54/100 [16:09<28:19, 36.95s/it]--- Fetching data for BLND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  55%|█████▌    | 55/100 [16:11<19:53, 26.53s/it]--- Fetching data for BLNK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLRK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 78 rows of data.
+--- Fetching data for BLRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLSH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 196 rows of data.
+--- Fetching data for BLTE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLUW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 205 rows of data.
+--- Fetching data for BLW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLZE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BLZR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 139 rows of data.
+--- Fetching data for BMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMEA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMEZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMGL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 313 rows of data.
+--- Fetching data for BMHL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 219 rows of data.
+--- Fetching data for BMI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BML (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$BML: possibly delisted; no price data found  (period=2y)
+❌ No data found for BML
+--- Fetching data for BMM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 83 rows of data.
+--- Fetching data for BMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMNR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 243 rows of data.
+--- Fetching data for BMO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMRA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BMY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNBX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNED (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  56%|█████▌    | 56/100 [16:42<20:33, 28.03s/it]--- Fetching data for BNGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNKK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNRG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNTC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  57%|█████▋    | 57/100 [16:50<15:44, 21.97s/it]--- Fetching data for BNTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BNZI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOBS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 75 rows of data.
+--- Fetching data for BOC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BODI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOKF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOOM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BORR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 10 rows of data.
+--- Fetching data for BOTJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BOXL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BPAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 96 rows of data.
+--- Fetching data for BPOP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BPRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 109 rows of data.
+--- Fetching data for BPRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRAG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 70 rows of data.
+--- Fetching data for BRBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 170 rows of data.
+--- Fetching data for BRBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRBS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRCB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 175 rows of data.
+--- Fetching data for BRCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRFH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRIA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 371 rows of data.
+--- Fetching data for BRID (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRK (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$BRK: possibly delisted; no price data found  (period=2y)
+❌ No data found for BRK
+--- Fetching data for BRKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRLS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BROS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 241 rows of data.
+--- Fetching data for BRSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRSP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRUN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 350 rows of data.
+--- Fetching data for BRW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BRZE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSAA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 200 rows of data.
+--- Fetching data for BSAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSET (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for BSM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSRR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSTZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BSY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTCS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTDR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTOC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTOG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 165 rows of data.
+--- Fetching data for BTSG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTTC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 161 rows of data.
+--- Fetching data for BTU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BTZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BUD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BUDA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 94 rows of data.
+--- Fetching data for BUI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BULL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  58%|█████▊    | 58/100 [18:28<31:11, 44.56s/it]--- Fetching data for BUR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  59%|█████▉    | 59/100 [18:28<21:29, 31.45s/it]--- Fetching data for BURL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BURU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BUSE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BUUU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 195 rows of data.
+--- Fetching data for BV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BVC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BVFL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWAY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWFG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for BWIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWIV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 10 rows of data.
+--- Fetching data for BWLP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWMX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWNB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BWXT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BXC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BXDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 7 rows of data.
+--- Fetching data for BXMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BXP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BXSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BYAH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 351 rows of data.
+--- Fetching data for BYD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BYFC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BYND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BYRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BYSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BZAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BZFD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for BZH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  60%|██████    | 60/100 [19:21<25:12, 37.81s/it]--- Fetching data for BZUN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for C (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAAP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAAS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CABA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CABR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 129 rows of data.
+--- Fetching data for CAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CACC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CACI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CADL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  61%|██████    | 61/100 [19:34<19:42, 30.33s/it]Successes Found:  62%|██████▏   | 62/100 [19:34<13:30, 21.33s/it]--- Fetching data for CAE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 234 rows of data.
+--- Fetching data for CAKE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CALC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CALM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CALX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CALY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 404 rows of data.
+--- Fetching data for CAMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CANF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CANG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAPL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAPR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 39 rows of data.
+--- Fetching data for CAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  63%|██████▎   | 63/100 [20:00<13:53, 22.52s/it]--- Fetching data for CARE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CARG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CARL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 211 rows of data.
+--- Fetching data for CARR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CARS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CART (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CASH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CASS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 53 rows of data.
+--- Fetching data for CASY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CATO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CATX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  64%|██████▍   | 64/100 [20:18<12:48, 21.36s/it]--- Fetching data for CATY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CAVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 125 rows of data.
+--- Fetching data for CBFV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 161 rows of data.
+--- Fetching data for CBL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBLL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 404 rows of data.
+Successes Found:  65%|██████▌   | 65/100 [20:30<10:52, 18.65s/it]--- Fetching data for CBNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 409 rows of data.
+--- Fetching data for CBNK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBRL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 7 rows of data.
+--- Fetching data for CBSH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBUS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CBZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCAP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCBG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCEC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCEL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCEP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCHH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 160 rows of data.
+--- Fetching data for CCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCID (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 145 rows of data.
+--- Fetching data for CCIF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 189 rows of data.
+--- Fetching data for CCIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 482 rows of data.
+--- Fetching data for CCJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCNE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CCXI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 73 rows of data.
+--- Fetching data for CCZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDLR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDNL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 113 rows of data.
+--- Fetching data for CDNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDR (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$CDR: possibly delisted; no price data found  (period=2y) (Yahoo error = "No data found, symbol may be delisted")
+❌ No data found for CDR
+--- Fetching data for CDRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDXS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CDZI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  66%|██████▌   | 66/100 [21:42<19:38, 34.66s/it]--- Fetching data for CECO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CELC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CELH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CELU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CELZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CENN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CENT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CENX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEPF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 190 rows of data.
+--- Fetching data for CEPO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 345 rows of data.
+--- Fetching data for CEPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 75 rows of data.
+--- Fetching data for CEPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 266 rows of data.
+--- Fetching data for CEPU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEPV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 138 rows of data.
+--- Fetching data for CERS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CERT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CET (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CETX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CETY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CEVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  67%|██████▋   | 67/100 [22:06<17:17, 31.43s/it]--- Fetching data for CF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFFI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFFN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 200 rows of data.
+--- Fetching data for CFR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CFTR (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$CFTR: possibly delisted; no price data found  (period=2y) (Yahoo error = "No data found, symbol may be delisted")
+❌ No data found for CFTR
+--- Fetching data for CG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGAU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 231 rows of data.
+--- Fetching data for CGEM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CGTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 372 rows of data.
+--- Fetching data for CGTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 276 rows of data.
+--- Fetching data for CHAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 372 rows of data.
+--- Fetching data for CHCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHDN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHEF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHGG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  68%|██████▊   | 68/100 [22:46<18:04, 33.90s/it]--- Fetching data for CHH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHKP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHMG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHMI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHNR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHOW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 173 rows of data.
+--- Fetching data for CHPG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 233 rows of data.
+--- Fetching data for CHPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHRD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  69%|██████▉   | 69/100 [22:56<13:50, 26.78s/it]--- Fetching data for CHRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHRW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHSN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHTR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHWY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CHYM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 238 rows of data.
+--- Fetching data for CI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CICB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 406 rows of data.
+--- Fetching data for CICC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 70 rows of data.
+--- Fetching data for CIEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIFR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for CIMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 499 rows of data.
+--- Fetching data for CIMO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 439 rows of data.
+--- Fetching data for CIMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 171 rows of data.
+--- Fetching data for CINF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CING (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CINT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CION (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CISO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CISS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CITR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 117 rows of data.
+--- Fetching data for CIVB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CJMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 326 rows of data.
+--- Fetching data for CKX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 40 rows of data.
+--- Fetching data for CLBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  70%|███████   | 70/100 [23:42<16:14, 32.48s/it]--- Fetching data for CLDI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLDT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLDX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  71%|███████   | 71/100 [23:47<11:42, 24.21s/it]--- Fetching data for CLFD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLIK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 406 rows of data.
+--- Fetching data for CLIR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLLS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLNE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLNN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLOV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  72%|███████▏  | 72/100 [24:01<09:52, 21.18s/it]--- Fetching data for CLPR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLRB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLSK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLVT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLWT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CLYM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  73%|███████▎  | 73/100 [24:14<08:23, 18.66s/it]--- Fetching data for CM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMBT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for CMC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMCL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMCM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMDB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 267 rows of data.
+--- Fetching data for CME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 60 rows of data.
+--- Fetching data for CMMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMND (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMPR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  74%|███████▍  | 74/100 [24:35<08:24, 19.42s/it]--- Fetching data for CMPX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMSA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMSD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMTV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CMU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNCK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNDT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNET (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNEY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNNE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNOB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNSP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNTA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNTB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNTN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNTY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNXC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNXN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CNXU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 2 rows of data.
+--- Fetching data for COAG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 16 rows of data.
+--- Fetching data for COCH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COCP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CODA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CODI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CODX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COFS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COGT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COHN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COHU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COKE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COLA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 299 rows of data.
+--- Fetching data for COLB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COLL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COLM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 459 rows of data.
+--- Fetching data for COO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COOK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COPL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 246 rows of data.
+--- Fetching data for COR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CORT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CORZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COSM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COSO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 262 rows of data.
+--- Fetching data for COST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COTY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  77%|███████▋  | 77/100 [26:11<10:09, 26.51s/it]--- Fetching data for COUR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for COYA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPAY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPHI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPNG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPOP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPSH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPSS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CPZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CQP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 114 rows of data.
+--- Fetching data for CRAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  78%|███████▊  | 78/100 [26:43<10:09, 27.72s/it]--- Fetching data for CRAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 92 rows of data.
+--- Fetching data for CRAQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 232 rows of data.
+--- Fetching data for CRBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 365 rows of data.
+--- Fetching data for CRBG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRBP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRBU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRCL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 243 rows of data.
+--- Fetching data for CRCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRD (Period: 2y, Interval: 1d) ---
+ERROR:yfinance:$CRD: possibly delisted; no price data found  (period=2y)
+❌ No data found for CRD
+--- Fetching data for CRDF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRDL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRDO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 211 rows of data.
+--- Fetching data for CREX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRGY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRIS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRML (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  79%|███████▉  | 79/100 [27:14<09:56, 28.40s/it]--- Fetching data for CRMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CROX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRSP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRSR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRTO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRUS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRVO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRWD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRWS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CRWV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 290 rows of data.
+--- Fetching data for CSAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 330 rows of data.
+--- Fetching data for CSAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSBR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSGP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSIQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSPI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSTE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSTL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSWC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CSX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTAS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTEV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  80%|████████  | 80/100 [28:12<11:53, 35.69s/it]--- Fetching data for CTGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTKB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  81%|████████  | 81/100 [28:16<08:43, 27.57s/it]Successes Found:  82%|████████▏ | 82/100 [28:17<06:01, 20.10s/it]--- Fetching data for CTMX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTNM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTNT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTOR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTOS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTRE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTRM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTRN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTSH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTSO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CTW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 201 rows of data.
+--- Fetching data for CTXR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CUB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 447 rows of data.
+--- Fetching data for CUBB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CUBE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CUBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CUE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CULP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CUPR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 281 rows of data.
+--- Fetching data for CURB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 415 rows of data.
+--- Fetching data for CURI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CURR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 432 rows of data.
+--- Fetching data for CURV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CURX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 187 rows of data.
+--- Fetching data for CUZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 225 rows of data.
+--- Fetching data for CVBF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVEO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVGW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVKD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVLG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  83%|████████▎ | 83/100 [29:05<07:55, 27.96s/it]Successes Found:  85%|████████▌ | 85/100 [29:06<03:55, 15.73s/it]Successes Found:  86%|████████▌ | 86/100 [29:06<02:47, 11.97s/it]--- Fetching data for CVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVSA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CVX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWEN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CWT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXDO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CXW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYAB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 40 rows of data.
+--- Fetching data for CYCN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYCU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 318 rows of data.
+--- Fetching data for CYD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYRX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CYTK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CZFS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CZNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CZR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for CZWI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for D (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAAQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 246 rows of data.
+--- Fetching data for DAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 232 rows of data.
+--- Fetching data for DAIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAKT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DARE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DASH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DAVE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBCA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 62 rows of data.
+--- Fetching data for DBD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBGI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBRG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBVT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DBX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCBG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 475 rows of data.
+--- Fetching data for DCBO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCOM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCOY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCTH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DCX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDOG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DDT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DEA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DEC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DECK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DEFT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 444 rows of data.
+--- Fetching data for DEI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DELL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DEO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DERM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DETX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 24 rows of data.
+--- Fetching data for DEVS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 384 rows of data.
+--- Fetching data for DFDV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFLI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFNS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for DFSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DFTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DGII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DGNX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 336 rows of data.
+--- Fetching data for DGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DGXX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  87%|████████▋ | 87/100 [31:25<09:41, 44.69s/it]--- Fetching data for DHT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DHY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DIBS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DIN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DINO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DIOD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DIS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DJCO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DJT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DKI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 199 rows of data.
+--- Fetching data for DKL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DKNG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DKS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLNG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLPN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLTH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLTR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DLXY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 221 rows of data.
+--- Fetching data for DLY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMAA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 313 rows of data.
+--- Fetching data for DMAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMII (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 118 rows of data.
+--- Fetching data for DMLP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for DMRA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DMRC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNLI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNMX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 127 rows of data.
+--- Fetching data for DNN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNOW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNTH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DNUT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOCN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  88%|████████▊ | 88/100 [32:24<09:41, 48.46s/it]--- Fetching data for DOCS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOCU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOGZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOLE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOMH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOMO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DORM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOUG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  89%|████████▉ | 89/100 [32:42<07:18, 39.86s/it]--- Fetching data for DOX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DOYU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DPG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DPRO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  90%|█████████ | 90/100 [32:46<04:57, 29.75s/it]--- Fetching data for DPZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRCT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  91%|█████████ | 91/100 [32:50<03:22, 22.47s/it]--- Fetching data for DRD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRDB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 328 rows of data.
+--- Fetching data for DRH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRIO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRTS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DRUG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  92%|█████████▏| 92/100 [33:02<02:34, 19.26s/it]--- Fetching data for DRVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSAC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 80 rows of data.
+--- Fetching data for DSGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSGR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  93%|█████████▎| 93/100 [33:06<01:44, 14.99s/it]--- Fetching data for DSGX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSWL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DSY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTCX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTIL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 169 rows of data.
+--- Fetching data for DTM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTSQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 423 rows of data.
+--- Fetching data for DTSS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DTW (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUKB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUKR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUOL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DUOT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DVLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DWSN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DWTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for DXC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DXCM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DXF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 334 rows of data.
+--- Fetching data for DXLG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DXPE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DXR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DXST (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 336 rows of data.
+--- Fetching data for DXYZ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DYAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DYN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for DYNC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 364 rows of data.
+--- Fetching data for DYOR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 128 rows of data.
+--- Fetching data for E (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EAD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EAF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EAI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 81 rows of data.
+--- Fetching data for EARN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBAY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBON (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EBS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECBK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECCC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECCU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 356 rows of data.
+--- Fetching data for ECCV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 393 rows of data.
+--- Fetching data for ECL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECOR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECPG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECVT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ECX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  94%|█████████▍| 94/100 [34:25<03:22, 33.73s/it]--- Fetching data for ED (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDAP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDBL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDHL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 276 rows of data.
+--- Fetching data for EDIT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  95%|█████████▌| 95/100 [34:33<02:10, 26.14s/it]--- Fetching data for EDN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDRY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDSA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDTK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDU (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EDUC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EEA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EEFT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EEIQ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EEX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFOI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFOR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFSC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFSI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EFXT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for EG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EGAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EGBN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EGG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 234 rows of data.
+--- Fetching data for EGHA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 227 rows of data.
+--- Fetching data for EGY (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EHC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EHGO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 475 rows of data.
+--- Fetching data for EHI (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for EHLD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 305 rows of data.
+--- Fetching data for EHTH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EICA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EIG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EIIA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 405 rows of data.
+--- Fetching data for EIKN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 75 rows of data.
+--- Fetching data for EIM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EIX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EJH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EL (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  96%|█████████▌| 96/100 [35:15<02:03, 30.80s/it]--- Fetching data for ELA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELAB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELAN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELBM (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELDN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELLA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 34 rows of data.
+--- Fetching data for ELLO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELMT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 22 rows of data.
+--- Fetching data for ELOG (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 185 rows of data.
+--- Fetching data for ELPC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELSE (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELTK (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELTX (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELUT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELVA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELVN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ELVR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 183 rows of data.
+--- Fetching data for ELWT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 137 rows of data.
+--- Fetching data for EMA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMAT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 95 rows of data.
+--- Fetching data for EMBC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMBJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for EME (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMF (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EML (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for EMO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for EMP (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 81 rows of data.
+--- Fetching data for EMPD (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  98%|█████████▊| 98/100 [35:50<00:49, 24.83s/it]--- Fetching data for EMR (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENB (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENGN (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENGS (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 288 rows of data.
+--- Fetching data for ENHA (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 11 rows of data.
+--- Fetching data for ENIC (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 502 rows of data.
+--- Fetching data for ENJ (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENLT (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENLV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENO (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENOV (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+--- Fetching data for ENPH (Period: 2y, Interval: 1d) ---
+✅ Successfully fetched 501 rows of data.
+Successes Found:  99%|█████████▉| 99/100 [36:02<00:21, 21.44s/it]Successes Found: 100%|██████████| 100/100 [36:03<00:00, 16.17s/it]Successes Found: 100%|██████████| 100/100 [36:03<00:00, 21.63s/it]
+
+Backtesting complete. Results saved to long_pred_test_result.csv

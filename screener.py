@@ -133,7 +133,6 @@ def screen_high_confidence_growth(tickers, forecast_horizon=14, growth_threshold
                     "Growth %": round(float(predicted_growth * 100), 2),
                     "Confidence Score": round(float(100 / (1 + interval_width_pct)), 2),
                     "Safety Check": "✅" if q_low > latest_price else "⚠️",
-                    "Timestamp": datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 }
                 candidates.append(res)
                 print(f"\n🔥 Found Candidate: {ticker} (+{res['Growth %']}%)")
