@@ -1,0 +1,15 @@
+{
+  "stocks": [
+    "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", 
+    "NVDA", "META", "AMD", "NFLX", "INTC"
+  ],
+  "crypto": [
+    "BTC/USD", "ETH/USD", "BNB/USD", "SOL/USD", "XRP/USD",
+    "ADA/USD", "DOGE/USD", "DOT/USD", "MATIC/USD", "LTC/USD"
+  ],
+  "forex": [
+    "EUR/USD", "USD/JPY", "GBP/USD", "AUD/USD", "USD/CAD",
+    "USD/CHF", "NZD/USD", "EUR/GBP", "EUR/JPY", "GBP/JPY"
+  ]
+}
+
