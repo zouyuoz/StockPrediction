@@ -14,7 +14,6 @@ from data import FinancialDataset
 from engine import triple_barrier_loss
 
 def load_subset_datasets(file_paths):
-    """Utility to load a list of CSVs and return a list of FinancialDataset objects."""
     datasets = []
     for f in file_paths:
         try:
@@ -45,30 +44,25 @@ def train_all():
     
     args = parser.parse_args()
 
-    # 1. Collect and Shuffle all CSV files
     csv_files = glob.glob(os.path.join(args.data_dir, "*_full.csv"))
     if not csv_files:
         print(f"No data files found in {args.data_dir}")
         return
     
-    # Shuffle once at the beginning to avoid alphabetic bias (Sector bias)
     random.seed(42)
     random.shuffle(csv_files)
     num_total_files = len(csv_files)
     print(f"Found {num_total_files} asset files total.")
 
-    # 2. Initialize Model
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = TradingPolicyNetwork(feature_dim=4, hidden_dim=256).to(device)
     optimizer = optim.Adam(model.parameters(), lr=args.lr)
 
     start_epoch = 0
     best_val_reward = -float('inf')
-    current_lmbda = 0.03
     reward_history = []
-    current_file_ptr = 0 # Pointer for circular loading
+    current_file_ptr = 0 
 
-    # Ensure checkpoint directory exists
     os.makedirs('checkpoints', exist_ok=True)
 
     if args.resume and os.path.exists('checkpoints/latest_checkpoint.pth'):
@@ -77,26 +71,20 @@ def train_all():
         model.load_state_dict(checkpoint['model_state_dict'])
         optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
         start_epoch = checkpoint['epoch'] + 1
-        current_lmbda = checkpoint.get('lmbda', 0.03)
         best_val_reward = checkpoint.get('best_val_reward', -float('inf'))
         reward_history = checkpoint.get('reward_history', [])
-        # Resume the pointer based on epoch (approximate)
         current_file_ptr = (start_epoch * args.files_per_epoch) % num_total_files
         print(f"  Resumed from epoch {start_epoch}, File Pointer: {current_file_ptr}")
 
-    print(f"Starting Universal Circular Training on {device}...")
+    print(f"Starting Sniper Mode Training on {device}...")
 
-    # 3. Training Loop
     for epoch in range(start_epoch, args.epochs):
-        # --- Circular File Selection ---
         selected_files = []
         for i in range(args.files_per_epoch):
             selected_files.append(csv_files[(current_file_ptr + i) % num_total_files])
         
-        # Update pointer for next epoch
         current_file_ptr = (current_file_ptr + args.files_per_epoch) % num_total_files
         
-        # Split selected 80 files into 64 train and 16 valid
         train_len = int(args.files_per_epoch * 0.9)
         train_files = selected_files[:train_len]
         val_files = selected_files[train_len:]
@@ -108,7 +96,6 @@ def train_all():
         train_loader = DataLoader(ConcatDataset(train_datasets), batch_size=args.batch_size, shuffle=True, num_workers=2)
         val_loader = DataLoader(ConcatDataset(val_datasets), batch_size=args.batch_size, shuffle=False)
         
-        # --- Standard Training Procedure ---
         model.train()
         train_rewards = []
         train_losses = []
@@ -129,10 +116,10 @@ def train_all():
                 hold_counts += (actions == 2).sum().item()
                 total_samples += actions.size(0)
 
+            # [修改點]: 移除 lmbda 參數傳遞，完全依靠不對稱 Reward
             loss, avg_reward = triple_barrier_loss(
                 probs, tp_ratio, sl_ratio, 
-                {'current_price': current_price, 'future_prices': future_prices},
-                lmbda=current_lmbda
+                {'current_price': current_price, 'future_prices': future_prices}
             )
             
             loss.backward()
@@ -142,25 +129,15 @@ def train_all():
             train_losses.append(loss.item())
             train_rewards.append(avg_reward.item())
             
-            pbar.set_postfix({'loss': f"{loss:.2e}", 'reward': f"{avg_reward.item():.2e}", "lmbda": f"{current_lmbda:.3f}"})
+            # [修改點]: 介面不再顯示 lmbda
+            pbar.set_postfix({'loss': f"{loss:.2e}", 'reward': f"{avg_reward.item():.2e}"})
 
         epoch_hold_rate = hold_counts / total_samples
         avg_train_reward = np.mean(train_rewards)
         reward_history.append(float(avg_train_reward))
-        reward_ma = np.mean(reward_history[-5:]) if len(reward_history) > 1 else avg_train_reward
 
-        # Dynamic Lambda Adjustment
-        if epoch_hold_rate >= 0.99999:
-            current_lmbda = min(0.1, current_lmbda * 4)
-        elif epoch_hold_rate > 0.98 and avg_train_reward <= reward_ma:
-            current_lmbda *= 1.2
-        elif avg_train_reward > reward_ma:
-            current_lmbda *= 0.95
-        elif epoch_hold_rate < 0.20:
-            current_lmbda *= 1.1
-        current_lmbda = max(0.001, min(0.5, current_lmbda))
+        # [修改點]: 徹底移除 Dynamic Lambda Adjustment 區塊
 
-        # Validation phase
         model.eval()
         val_rewards = []
         with torch.no_grad():
@@ -169,19 +146,20 @@ def train_all():
                 current_price = batch['current_price'].to(device)
                 future_prices = batch['future_prices'].to(device)
                 probs, tp_ratio, sl_ratio = model(x)
+                
+                # Validation 也不傳遞 lmbda
                 _, avg_reward = triple_barrier_loss(probs, tp_ratio, sl_ratio, 
                                                   {'current_price': current_price, 'future_prices': future_prices})
                 val_rewards.append(avg_reward.item())
 
         avg_val_reward = np.mean(val_rewards)
-        print(f"Summary | Loss: {np.mean(train_losses):.2e} | Reward: {avg_train_reward:.2e} | ValReward: {avg_val_reward:.2e} | HoldRate: {epoch_hold_rate:.2%} | Lmbda: {current_lmbda:.3f}")
+        print(f"Summary | Loss: {np.mean(train_losses):.2e} | Reward: {avg_train_reward:.2e} | ValReward: {avg_val_reward:.2e} | HoldRate: {epoch_hold_rate:.2%}")
 
-        # Checkpoints
+        # [修改點]: 儲存 Checkpoint 時不再包含 lmbda
         torch.save({
             'epoch': epoch,
             'model_state_dict': model.state_dict(),
             'optimizer_state_dict': optimizer.state_dict(),
-            'lmbda': current_lmbda,
             'best_val_reward': best_val_reward,
             'reward_history': reward_history
         }, 'checkpoints/latest_checkpoint.pth')

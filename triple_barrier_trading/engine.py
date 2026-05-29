@@ -3,13 +3,15 @@ import torch.nn.functional as F
 
 class StrategyEngine:
     @staticmethod
-    def compute_reward(action, tp, sl, current_price, future_prices, cost=0.001, hurdle=0.01):
+    def compute_reward(action, tp, sl, current_price, future_prices, cost=0.0015, hurdle=0.05):
         """
-        Inputs:
+        Sniper Mode Reward System
         - action: [Batch] (0: Long, 1: Short, 2: Hold)
         - tp, sl: [Batch, 1] 
         - current_price: [Batch] 或 [Batch, 1]
         - future_prices: [Batch, Horizon]
+        - cost: 0.0015 (考慮手動交易潛在較大的 slippage 與手續費)
+        - hurdle: 0.05 (過濾掉小於 5% 的平庸波動，非大波段不交易)
         """
         device = current_price.device
         batch_size, horizon = future_prices.shape
@@ -56,7 +58,7 @@ class StrategyEngine:
         
         long_final_price = torch.where(long_is_sl, long_sl_price.squeeze(1),
                            torch.where(long_timeout, long_exit_price, long_tp_price.squeeze(1)))
-        long_return = (long_final_price - current_price.squeeze(1)) / current_price.squeeze(1) - cost
+        raw_long_return = (long_final_price - current_price.squeeze(1)) / current_price.squeeze(1) - cost
 
         # --- 計算 Short 的結果 ---
         short_exit_time = torch.min(time_short_tp, time_short_sl)
@@ -68,29 +70,37 @@ class StrategyEngine:
         
         short_final_price = torch.where(short_is_sl, short_sl_price.squeeze(1),
                             torch.where(short_timeout, short_exit_price, short_tp_price.squeeze(1)))
-        short_return = (current_price.squeeze(1) - short_final_price) / current_price.squeeze(1) - cost
+        raw_short_return = (current_price.squeeze(1) - short_final_price) / current_price.squeeze(1) - cost
 
-        # --- Hurdle 過濾 (Alpha-hunting) ---
-        # 如果利潤沒有跨越 hurdle，將其歸零 (或加入微小懲罰) 以避免模型頻繁交易於雜訊中
-        long_return = torch.where((long_return > 0) & (long_return < hurdle), torch.tensor(0.0, device=device), long_return)
-        short_return = torch.where((short_return > 0) & (short_return < hurdle), torch.tensor(0.0, device=device), short_return)
+        # ==========================================
+        # 關鍵改造：狙擊手不對稱 Reward 塑形
+        # ==========================================
+        def shape_reward(returns):
+            # 1. 虧損放大懲罰 (Risk Aversion，痛苦係數 x3)
+            r = torch.where(returns < 0, returns * 3.0, returns)
+            # 2. 獲利未達 Hurdle，視為無效交易，給予微小懲罰 (-0.02)
+            r = torch.where((r >= 0) & (r < hurdle), torch.tensor(-0.02, device=device), r)
+            # 3. 暴利非線性放大 (超過 Hurdle 的部分給予指數級獎勵)
+            r = torch.where(r >= hurdle, (r * 10.0) ** 1.5, r)
+            return r
+
+        long_reward = shape_reward(raw_long_return)
+        short_reward = shape_reward(raw_short_return)
 
         # --- 整合最終 Reward ---
-        reward = torch.zeros_like(long_return)
-        reward = torch.where(action == 0, long_return, reward)
-        reward = torch.where(action == 1, short_return, reward)
-        # action == 2 (Hold) 維持為 0
+        reward = torch.zeros_like(long_reward)
+        reward = torch.where(action == 0, long_reward, reward)
+        reward = torch.where(action == 1, short_reward, reward)
+        # action == 2 (Hold) 維持為絕對安全的 0
 
         return reward
 
 
-def triple_barrier_loss(probs, tp, sl, data_batch, lmbda=0.02, entropy_coef=0.01):
+def triple_barrier_loss(probs, tp, sl, data_batch, entropy_coef=0.001):
     """
-    Inputs:
-    - probs: [Batch, 3] 
-    - tp, sl: [Batch, 1]
-    - data_batch: dict 包含 'current_price' 與 'future_prices'
-    - lmbda: Hold 懲罰係數
+    Sniper Mode Policy Gradient Loss
+    - 移除了 lmbda (Hold Penalty)，模型現在可以心安理得地 100% Hold。
+    - entropy_coef 調降至 0.001，僅保留極微弱的探索。
     """
     current_price = data_batch['current_price']
     future_prices = data_batch['future_prices']
@@ -102,44 +112,36 @@ def triple_barrier_loss(probs, tp, sl, data_batch, lmbda=0.02, entropy_coef=0.01
     # 環境結算不可微，必須使用 no_grad
     with torch.no_grad():
         reward = StrategyEngine.compute_reward(action, tp, sl, current_price, future_prices)
-        # Advantage Normalization: 將 Reward 標準化，穩定梯度下降方向
-        advantage = (reward - reward.mean()) / (reward.std() + 1e-8)
+        # Advantage Normalization: 加入微小 epsilon 防止全 Hold 時 reward 為 0 導致 NaN
+        advantage = (reward - reward.mean()) / (reward.std() + 1e-5)
 
     # Policy Gradient Loss: - E[log(P(A)) * Advantage]
     log_probs = dist.log_prob(action)
     pg_loss = - (log_probs * advantage).mean()
 
-    # 2. Entropy Bonus: 懲罰過度自信，防止模型迅速陷入 100% 只做 Long 或 Hold
+    # 2. Entropy Bonus
     entropy = dist.entropy().mean()
-
-    # 3. Hold Penalty: 直接對 Hold (index 2) 的輸出機率施壓
-    # 數值越大，模型越不敢輸出 Hold
-    hold_penalty = lmbda * probs[:, 2].mean()
     
     # ------------------------------------------------------------------
-    # 4. TP / SL 輔助損失 (Crucial Fix for Non-Differentiability)
+    # 3. TP / SL Auxiliary Loss (輔助損失)
     # ------------------------------------------------------------------
-    # 計算未來窗口內的最大上漲幅度與最大下跌幅度作為 "Label"
+    # 確保即使模型選擇 Hold，負責輸出 tp/sl 的神經網路層仍會去學習真實波動
     with torch.no_grad():
         max_price = future_prices.max(dim=1)[0].unsqueeze(1)
         min_price = future_prices.min(dim=1)[0].unsqueeze(1)
         
-        # 真實的波動極值 (百分比)
         actual_max_up = (max_price - current_price) / current_price
         actual_max_down = (current_price - min_price) / current_price
         
-        # 將極值限制在網路輸出的合理範圍內 (例如 tp 最多 0.15, sl 最多 0.10)
+        # 你的 TP_head 上限是 0.15，SL_head 上限是 0.10 (基於 models.py 的設計)
         optimal_tp = torch.clamp(actual_max_up, min=0.0, max=0.15)
         optimal_sl = torch.clamp(actual_max_down, min=0.0, max=0.10)
 
-    # 使用 MSE 迫使 tp 和 sl 的神經網路頭去預測真實的波動區間
-    # 這樣 tp 和 sl 才能產生實質的梯度進行權重更新
     tp_loss = F.mse_loss(tp, optimal_tp)
     sl_loss = F.mse_loss(sl, optimal_sl)
     auxiliary_loss = tp_loss + sl_loss
 
-    # 總 Loss 整合
-    total_loss = pg_loss - (entropy_coef * entropy) + hold_penalty + auxiliary_loss
+    # 總 Loss 整合 (不再包含 hold_penalty)
+    total_loss = pg_loss - (entropy_coef * entropy) + auxiliary_loss
 
-    # 回傳 loss 用於反向傳播，回傳 reward_mean 用於監控訓練狀態
     return total_loss, reward.mean()
